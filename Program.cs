@@ -1,10 +1,13 @@
 ﻿// intellisense
 
 Console.ForegroundColor = ConsoleColor.DarkBlue;
+Console.BackgroundColor = ConsoleColor.Yellow;
 
 Console.Clear();
 Console.WriteLine("**Quem de Nós Dois**");
 Console.ResetColor();
+Console.BackgroundColor = ConsoleColor.Yellow;
+
 Console.WriteLine();
 Console.WriteLine("Eu e você \r\nNão é assim tão complicado\r\nNão é difícil perceber");
 Console.WriteLine();
@@ -20,11 +23,14 @@ Console.WriteLine("No vão das coisas que a gente disse\r\nNão cabe mais sermos
 Console.WriteLine();
 
 Console.ForegroundColor = ConsoleColor.Red;
+Console.BackgroundColor = ConsoleColor.Yellow;
+
 Console.WriteLine("E cada vez que eu fujo, eu me aproximo mais\r\nE te perder de vista assim é ruim demais\r\nE é por isso que atravesso o teu futuro\r\nE faço das lembranças um lugar seguro");
 Console.WriteLine();
 Console.WriteLine("Não é que eu queira reviver nenhum passado\r\nNem revirar um sentimento revirado\r\nMas toda vez que eu procuro uma saída\r\nAcabo entrando sem querer na tua vida");
 Console.WriteLine();
 Console.ResetColor();
+Console.BackgroundColor = ConsoleColor.Yellow;
 
 Console.WriteLine("Eu procurei\r\nQualquer desculpa\r\nPra não te encarar");
 Console.WriteLine();
@@ -34,6 +40,7 @@ Console.WriteLine("Que eu já não tô nem aí pra essa conversa\r\nQue a histó
 Console.WriteLine();
 
 Console.ForegroundColor = ConsoleColor.Red;
+Console.BackgroundColor = ConsoleColor.Yellow;
 Console.WriteLine("E cada vez que eu fujo, eu me aproximo mais\r\nE te perder de vista assim é ruim demais\r\nE é por isso que atravesso o teu futuro\r\nE faço das lembranças um lugar seguro");
 Console.WriteLine();
 Console.WriteLine("Não é que eu queira reviver nenhum passado\r\nNem revirar um sentimento revirado\r\nMas toda vez que eu procuro uma saída\r\nAcabo entrando sem querer na tua vida");
